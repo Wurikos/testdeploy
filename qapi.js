@@ -79,8 +79,7 @@ export default {
 			"children": [
 				"606eaf71c8e036001ed14c9c",
 				"606eaf84c8e036001ed14ca0",
-				"606eafd0652a1e001e077766",
-				"606eb4e92b962f001e744198"
+				"606eafd0652a1e001e077766"
 			]
 		},
 		"606eaf71c8e036001ed14c9c": {
@@ -97,11 +96,6 @@ export default {
 			"id": "606eafd0652a1e001e077766",
 			"pageUrl": "page2-411",
 			"name": "Page2-4"
-		},
-		"606eb4e92b962f001e744198": {
-			"id": "606eb4e92b962f001e744198",
-			"pageUrl": "page2-4111",
-			"name": "ThispagewasDeleted"
 		}
 	},
 	"mode": "production",
